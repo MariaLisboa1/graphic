@@ -1,0 +1,52 @@
+/* .col-um{
+    float: left;
+    position: relative;
+    right: 10%;
+}
+
+.col-dois{
+    position: relative;
+    right: 10%;
+}
+
+.col-tres{
+    border-style: solid;
+    border-width: 0px 0px 0px 1px;
+    position: relative;
+    right: 10%;
+}
+
+.meta-diaria{
+    position: relative;
+    left: 45%;
+    width: 10em;
+}
+
+.porcen-diaria{
+    position: relative;
+    top: 50px;
+    left: 190px;
+    bottom: 50px;
+}
+.col-quatro{
+    border-style: solid;
+    border-width: 0px 0px 0px 1px;
+    position: relative;
+    left: 10%;
+}
+
+
+.container h4{
+    position: relative;
+    right: 7%;
+} */
+
+.col-um {
+    border-style: solid;
+    border-width: 0px 1px 0px 0px;
+}
+
+.col-quatro {
+    border-style: solid;
+    border-width: 0px 0px 0px 1px;
+}

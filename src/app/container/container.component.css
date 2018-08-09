@@ -1,0 +1,32 @@
+.red-square {
+    width: 20px;
+    height: 20px;
+    background: #A81106;
+    position: relative;
+    /* top: 35px; */
+    right: 100px;
+  }
+
+  .blue-square {
+    width: 20px;
+    height: 20px;
+    background: #498cbc;
+    position: relative;
+    /* bottom: 35px;
+    left: 650px; */
+  }
+
+.move-metas{
+    position: relative;
+    right: 2%;
+}
+
+.move-vendas{
+    position: relative;
+    right: -1%;
+}
+
+.move{
+    position: relative;
+    right: -1%;
+}

@@ -1,0 +1,24 @@
+<div class="container">
+  <h4>Meta diária das Filiais</h4>
+
+  <div class="row">
+
+    <div class="col col-um">
+        <br>
+      <p *ngFor="let element of nomes">Filial {{ element.name }} = </p>
+
+    </div>
+
+    <div class="col col-tres text-center">
+        <h4 class="text-uppercase meta-diaria">Meta diária guido</h4>
+        <h2 class="text-danger porcen-diaria">10,123%</h2>
+    </div>
+  
+    <div class="col col-quatro">
+        <h4 class="text-center">Meta mensal das regionais</h4>     
+<br>
+        <graf-grafico-meta-mensal-regionais></graf-grafico-meta-mensal-regionais>
+        
+    </div>
+  </div>
+</div>
